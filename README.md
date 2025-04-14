@@ -47,4 +47,15 @@ npm start
 - `POST /api/jobs` – Add a new job
 
 
- 
+
+-Home page
+ ![image](https://github.com/user-attachments/assets/0f0ef8ac-fcbf-4d17-b4ac-7d189737f1f2)
+-Add-Job
+![image](https://github.com/user-attachments/assets/3ee34d42-d44e-4795-b114-3812176fdd8e)
+-Get Job by Id
+![image](https://github.com/user-attachments/assets/9145524d-78c1-4476-9802-d074972ecead)
+
+
+
+
+
