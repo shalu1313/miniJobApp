@@ -1,6 +1,6 @@
-import React, { useEffect, useState } from 'react';
+ import React, { useEffect, useState } from 'react';
 import axios from '../api.jsx';
-import JobCard from '../components/jobCard.jsx';  // This should have enhanced styling
+import JobCard from '../components/jobCard.jsx';  
 import Spinner from '../components/Spinner.jsx';
 
 const Home = () => {
